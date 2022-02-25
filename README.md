@@ -1,5 +1,5 @@
-# UI Summer 01 - Telegram for windows 11
-### Telegram for windows 11 built with Pure CSS(SASS) + HTML + JS
+# UI Summer 01 - Telegram for windows 11 UI Concept
+### Telegram for windows 11 UI Concept built with Pure CSS(SASS) + HTML + JS
 ## 🎴 Layout
 ![image](https://user-images.githubusercontent.com/48324076/155745887-8b9af1cc-6eaf-4f81-b142-d2c0ba8f4394.png)
 
@@ -9,8 +9,8 @@ You can also check the deployment in vercel, for some reason the video in backgr
 load correctly, if you find out I would greatly appreciate your contribution...
 ```
 ## 🚀 Deploy
-- # [Vercel Deploy](https://ui-summer-01.vercel.app/)
-- # [Github Deploy](https://baziotabeans.github.io/telegram-for-window/)
+-  [Vercel Deploy](https://ui-summer-01.vercel.app/)
+-  [Github Deploy](https://baziotabeans.github.io/telegram-for-window/)
 
 ## 📑 Description
 
