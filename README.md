@@ -5,8 +5,13 @@
 
 ###### 🚀🔥 [See in action](https://baziotabeans.github.io/telegram-for-window/)
 ```
-You can also check the deployment in vercel, for some reason the video doesn't load correctly, if you find out I would greatly appreciate your contribution...
+You can also check the deployment in vercel, for some reason the video in background doesn't 
+load correctly, if you find out I would greatly appreciate your contribution...
 ```
+## 🚀 Deploy
+- # [Vercel Deploy](https://ui-summer-01.vercel.app/)
+- # [Github Deploy](https://baziotabeans.github.io/telegram-for-window/)
+
 ## 📑 Description
 
 This is a part of the UI Summer series, inspired by the projects available in codepen, the idea 
